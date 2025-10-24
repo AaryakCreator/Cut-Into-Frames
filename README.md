@@ -37,3 +37,24 @@ It’s perfect for:
 ### 🔹 Installation  
 ```bash
 git clone https://github.com/AaryakCreator/Cut-Into-Frames.git
+```
+
+### 🔹 Step 1 — Installation
+1. Clone or download this repository:
+   ```bash
+   git clone https://github.com/AaryakCreator/Cut-Into-Frames.git
+2. Locate the `CompIntoLayers.jsx` file.
+3. Open Adobe After Effects.
+
+### 🔹 Step 2 — Running the Script
+In After Effects:
+1. Go to `File` → `Scripts` → `Run Script File`.
+2. Select `CompIntoLayers.jsx`.
+3. Enter how many frames or equal segments you want.
+`The script automatically creates sub-compositions or layers like:`
+> - Frame_01
+> - Frame_02
+> - Frame_03 
+> - ....
+
+---
